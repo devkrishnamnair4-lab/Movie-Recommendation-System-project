@@ -1,1 +1,1 @@
-# Movie Recommender App Package
+# Movie Recommender Tests Package
